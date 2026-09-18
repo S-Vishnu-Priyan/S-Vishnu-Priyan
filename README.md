@@ -12,14 +12,25 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/S-Vishnu-Priyan">
     <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444" alt="GitHub" />
   </a>
-  <!-- Add your actual LinkedIn and email links -->
+  <a href="https://www.linkedin.com/in/vishnu-priyan-s-654094261">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/vishxx.____/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:vishnupriyan186@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://portfoliovishnupriyan.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=S-Vishnu-Priyan&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -27,11 +38,11 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  Hi! I'm <b>Vishnu Priyan S</b>, a cybersecurity enthusiast, developer, and freelance graphic designer from India.
+  Hey! I'm <b>Vishnu Priyan S</b>, a cybersecurity enthusiast, software developer, and freelance graphic designer from India.
   <br /><br />
-  I enjoy building secure and user-friendly applications, exploring cybersecurity, and transforming ideas into practical digital solutions.
+  I enjoy building secure, user-friendly applications and exploring innovative technologies. My interests include cybersecurity, full-stack development, UI/UX design, and software engineering.
   <br /><br />
-  My interests include full-stack development, web application security, UI/UX design, and software engineering.
+  I love turning ideas into practical digital solutions while continuously improving my technical and creative skills.
 </p>
 
 <p align="center">
@@ -48,6 +59,12 @@
   <b>Interests:</b> Cybersecurity, Web Development, UI/UX, and Software Engineering
 </p>
 
+<p align="center">
+  <a href="https://portfoliovishnupriyan.vercel.app/">
+    <img src="https://img.shields.io/badge/Explore-My%20Portfolio-DC2626?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 ---
 
 <h2 align="center">🚀 What I Do</h2>
@@ -56,11 +73,11 @@
   <tr>
     <td width="50%" align="center">
       <h3>🔐 Cybersecurity</h3>
-      <p>Web application security, penetration testing, vulnerability assessment, and security tools.</p>
+      <p>Exploring web application security, penetration testing, vulnerability assessment, and security tools.</p>
     </td>
     <td width="50%" align="center">
       <h3>💻 Development</h3>
-      <p>Building responsive web applications using React, Node.js, Express, and databases.</p>
+      <p>Building responsive applications using React, Node.js, Express, and database technologies.</p>
     </td>
   </tr>
   <tr>
@@ -70,7 +87,7 @@
     </td>
     <td width="50%" align="center">
       <h3>🧠 Continuous Learning</h3>
-      <p>Exploring new technologies, solving technical challenges, and improving development skills.</p>
+      <p>Exploring technologies, practicing hands-on cybersecurity, and improving software development skills.</p>
     </td>
   </tr>
 </table>
@@ -79,47 +96,57 @@
 
 <h2 align="center">🌟 Featured Projects</h2>
 
-### 1. GenAI Security Scanner
+<h3>1. GenAI Security Scanner</h3>
 
-A project focused on analyzing and identifying security issues using AI-related technologies.
+<p>
+A project focused on security analysis and identifying potential vulnerabilities using AI-related technologies.
+</p>
 
 - Backend development and API integration.
 - Security analysis and vulnerability detection.
 - Frontend integration and user experience.
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/Source%20Code-View%20Project-111111?style=for-the-badge&logo=github&logoColor=EF4444" alt="Source Code" />
+  <a href="https://github.com/S-Vishnu-Priyan">
+    <img src="https://img.shields.io/badge/Source%20Code-View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444" alt="Source Code" />
   </a>
 </p>
 
-### 2. Intrusion Detection System
+<h3>2. Intrusion Detection System</h3>
 
+<p>
 A Python-based security project exploring intrusion detection with photo capture and location tracking functionality.
+</p>
 
 - Python development.
 - Intrusion detection concepts.
 - Image capture and location integration.
 
-### 3. SQL Injection Exploitation
+<h3>3. SQL Injection Exploitation</h3>
 
+<p>
 A cybersecurity project focused on understanding SQL injection vulnerabilities in web applications.
+</p>
 
 - Vulnerable login application.
 - SQL injection testing.
 - Prepared statements and secure query handling.
 
-### 4. AutoFix – Web Development
+<h3>4. AutoFix – Web Development</h3>
 
-An online platform concept for vehicle repair services and appointment booking.
+<p>
+An online platform for vehicle repair services and booking appointments.
+</p>
 
 - Responsive web development.
 - Vehicle repair booking workflow.
 - User-friendly interface design.
 
-### 5. Bonfiglioli Hackathon Website
+<h3>5. Bonfiglioli Hackathon Website</h3>
 
+<p>
 Worked as a UI/UX and Frontend Developer for the Bonfiglioli Hackathon website.
+</p>
 
 - Frontend development.
 - User interface design.
@@ -131,7 +158,7 @@ Worked as a UI/UX and Frontend Developer for the Bonfiglioli Hackathon website.
 
 <p align="center">
   <img src="https://img.shields.io/badge/TryHackMe-50%2B%20Labs-111111?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe Labs" />
-  <img src="https://img.shields.io/badge/Pentaathon-NCIIPC%20%7C%20AICTE%20%7C%20Rank%2037-DC2626?style=for-the-badge" alt="Pentaathon Achievement" />
+  <img src="https://img.shields.io/badge/Pentaathon-Rank%2037-DC2626?style=for-the-badge" alt="Pentaathon Rank" />
 </p>
 
 - Achieved Rank 37 in Pentaathon conducted by NCIIPC in collaboration with AICTE.
@@ -218,15 +245,15 @@ Worked as a UI/UX and Frontend Developer for the Bonfiglioli Hackathon website.
 <h2 align="center">📈 GitHub Analytics & Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width:440px;" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=S-Vishnu-Priyan&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width:440px;" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width:350px;" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Vishnu-Priyan&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width:350px;" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444" width="100%" style="max-width:480px;" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-Vishnu-Priyan&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444" width="100%" style="max-width:480px;" alt="GitHub Streak" />
 </p>
 
 ---
@@ -234,12 +261,12 @@ Worked as a UI/UX and Frontend Developer for the Bonfiglioli Hackathon website.
 <h2 align="center">🐍 Contribution Journey</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/S-Vishnu-Priyan/S-Vishnu-Priyan/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
 </p>
 
 ---
 
-<h2 align="center">🤝 Let's Connect & Collaborate</h2>
+<h2 align="center">🌐 Let's Connect & Collaborate</h2>
 
 <p align="center">
   I'm interested in collaborating on cybersecurity, web development, UI/UX design, and innovative software projects.
@@ -248,10 +275,21 @@ Worked as a UI/UX and Frontend Developer for the Bonfiglioli Hackathon website.
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/S-Vishnu-Priyan">
     <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444" alt="GitHub" />
   </a>
-  <!-- Add your actual LinkedIn, Instagram, and email badges here -->
+  <a href="https://www.linkedin.com/in/vishnu-priyan-s-654094261">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/vishxx.____/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:vishnupriyan186@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://portfoliovishnupriyan.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 <p align="center">
