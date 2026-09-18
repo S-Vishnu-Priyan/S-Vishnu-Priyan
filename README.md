@@ -1,297 +1,265 @@
 
-<!-- GitHub Profile README - Vishnu Priyan S -->
+<!-- 🌌 CYBERPUNK GITHUB PROFILE README -->
 
-<p align="center">
-  <img src="assets/header.svg" width="100%" alt="Vishnu Priyan S Header" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi there! I'm Vishnu Priyan S 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:180b12,100:ff1744&text=VISHNU%20PRIYAN%20S&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Cybersecurity%20%7C%20Full%20Stack%20%7C%20UI%2FUX&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&width=620&height=42&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+%26+Graphic+Designer+%F0%9F%8E%A8;Building+Secure+Digital+Experiences+%E2%9A%A1" alt="Typing SVG" />
-</p>
+### 👋 Hi there! Welcome to my digital space.
 
-<p align="center">
-  <a href="https://github.com/S-Vishnu-Priyan">
-    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/vishnu-priyan-s-654094261">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/vishxx.____/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:vishnupriyan186@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://portfoliovishnupriyan.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+**Cybersecurity Enthusiast | Full Stack Developer | UI/UX & Graphic Designer**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=S-Vishnu-Priyan&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
-</p>
+*"Building secure digital experiences, one idea at a time."*
+
+<br/>
+
+<a href="https://github.com/S-Vishnu-Priyan">
+  <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/vishnu-priyan-s-654094261">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/vishxx.____/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-C13584?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:vishnupriyan186@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://portfoliovishnupriyan.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+## 🧑‍💻 About Me
 
-<p align="center">
-  Hey! I'm <b>Vishnu Priyan S</b>, a cybersecurity enthusiast, software developer, and freelance graphic designer from India.
-  <br /><br />
-  I enjoy building secure, user-friendly applications and exploring innovative technologies. My interests include cybersecurity, full-stack development, UI/UX design, and software engineering.
-  <br /><br />
-  I love turning ideas into practical digital solutions while continuously improving my technical and creative skills.
-</p>
+```text
+Name       : Vishnu Priyan S
+Role       : Graduate Engineer Trainee
+Company    : BMW TechWorks India
+Focus      : Cybersecurity & Full Stack Development
+Creative   : UI/UX & Graphic Design
+Location   : India
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/Development-Full%20Stack-DC2626?style=flat-square" />
-  <img src="https://img.shields.io/badge/Design-UI%2FUX-111111?style=flat-square" />
-</p>
+Hey! I'm **Vishnu Priyan S**, a cybersecurity enthusiast, software developer, and freelance graphic designer from India.
 
-<p align="center">
-  <b>Current Role:</b> Graduate Engineer Trainee
-  <br />
-  <b>Organization:</b> BMW TechWorks India
-  <br />
-  <b>Interests:</b> Cybersecurity, Web Development, UI/UX, and Software Engineering
-</p>
+I enjoy building secure, user-friendly applications and exploring innovative technologies. My interests include cybersecurity, full-stack development, UI/UX design, and software engineering.
 
-<p align="center">
-  <a href="https://portfoliovishnupriyan.vercel.app/">
-    <img src="https://img.shields.io/badge/Explore-My%20Portfolio-DC2626?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+I love turning ideas into practical digital experiences while continuously improving my technical and creative skills.
 
 ---
 
-<h2 align="center">🚀 What I Do</h2>
+## ⚡ What I Do
 
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" align="center">
-      <h3>🔐 Cybersecurity</h3>
-      <p>Exploring web application security, penetration testing, vulnerability assessment, and security tools.</p>
-    </td>
-    <td width="50%" align="center">
-      <h3>💻 Development</h3>
-      <p>Building responsive applications using React, Node.js, Express, and database technologies.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🎨 UI/UX & Graphics</h3>
-      <p>Designing user interfaces, graphics, posters, and engaging digital experiences.</p>
-    </td>
-    <td width="50%" align="center">
-      <h3>🧠 Continuous Learning</h3>
-      <p>Exploring technologies, practicing hands-on cybersecurity, and improving software development skills.</p>
-    </td>
-  </tr>
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 Cybersecurity
+
+- Exploring web application security
+- Vulnerability assessment
+- Penetration testing concepts
+- Learning security tools and techniques
+
+</td>
+<td width="50%">
+
+### 💻 Development
+
+- Building responsive applications
+- Frontend and backend development
+- Working with databases
+- Creating practical software solutions
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎨 UI/UX & Graphics
+
+- User interface design
+- Graphic design and posters
+- Creative visual communication
+- Frontend design implementation
+
+</td>
+<td width="50%">
+
+### 🚀 Continuous Learning
+
+- Exploring new technologies
+- Practicing hands-on cybersecurity
+- Improving development skills
+- Learning through projects and challenges
+
+</td>
+</tr>
 </table>
 
 ---
 
-<h2 align="center">🌟 Featured Projects</h2>
+## 🏆 Achievements & Activities
 
-<h3>1. GenAI Security Scanner</h3>
+<div align="center">
 
-<p>
-A project focused on security analysis and identifying potential vulnerabilities using AI-related technologies.
-</p>
+| 🥇 Achievement | 📌 Details |
+|---|---|
+| **Pentaathon** | Rank 37 — conducted by NCIIPC in collaboration with AICTE |
+| **TryHackMe** | Completed 50+ hands-on labs |
+| **Smart Industry 4.0 Hackathon** | Led the design team at Chennai Institute of Technology, in collaboration with Bonfiglioli |
+| **Bonfiglioli Hackathon Website** | Contributed as UI/UX & Frontend Developer |
 
-- Backend development and API integration.
-- Security analysis and vulnerability detection.
-- Frontend integration and user experience.
-
-<p>
-  <a href="https://github.com/S-Vishnu-Priyan">
-    <img src="https://img.shields.io/badge/Source%20Code-View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444" alt="Source Code" />
-  </a>
-</p>
-
-<h3>2. Intrusion Detection System</h3>
-
-<p>
-A Python-based security project exploring intrusion detection with photo capture and location tracking functionality.
-</p>
-
-- Python development.
-- Intrusion detection concepts.
-- Image capture and location integration.
-
-<h3>3. SQL Injection Exploitation</h3>
-
-<p>
-A cybersecurity project focused on understanding SQL injection vulnerabilities in web applications.
-</p>
-
-- Vulnerable login application.
-- SQL injection testing.
-- Prepared statements and secure query handling.
-
-<h3>4. AutoFix – Web Development</h3>
-
-<p>
-An online platform for vehicle repair services and booking appointments.
-</p>
-
-- Responsive web development.
-- Vehicle repair booking workflow.
-- User-friendly interface design.
-
-<h3>5. Bonfiglioli Hackathon Website</h3>
-
-<p>
-Worked as a UI/UX and Frontend Developer for the Bonfiglioli Hackathon website.
-</p>
-
-- Frontend development.
-- User interface design.
-- Website layout and usability.
+</div>
 
 ---
 
-<h2 align="center">🏆 Achievements</h2>
+## 🛡️ Cybersecurity & Hands-on Learning
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TryHackMe-50%2B%20Labs-111111?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe Labs" />
-  <img src="https://img.shields.io/badge/Pentaathon-Rank%2037-DC2626?style=for-the-badge" alt="Pentaathon Rank" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
-- Achieved Rank 37 in Pentaathon conducted by NCIIPC in collaboration with AICTE.
-- Completed 50+ TryHackMe labs.
-- Led the design team for the Smart Industry 4.0 Hackathon conducted at Chennai Institute of Technology in collaboration with Bonfiglioli.
+### 🔍 Web Application Security
 
----
+Exploring SQL injection, vulnerability assessment, and web application penetration testing.
 
-<h2 align="center">🔐 Cybersecurity & Hands-on Learning</h2>
+</td>
+<td width="50%">
 
-<p align="center">
-  <i>Exploring cybersecurity concepts through practical projects and hands-on labs.</i>
-</p>
+### 🧰 Security Tools
 
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" align="center">
-      <h3>🌐 Web Application Security</h3>
-      <p>SQL Injection, vulnerability assessment, and web application penetration testing.</p>
-    </td>
-    <td width="50%" align="center">
-      <h3>🛡️ Security Tools</h3>
-      <p>Burp Suite, Nmap, Wireshark, Metasploit, and Kali Linux.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🧪 Practical Labs</h3>
-      <p>Hands-on cybersecurity exercises and security investigation concepts.</p>
-    </td>
-    <td width="50%" align="center">
-      <h3>🔎 Security Research</h3>
-      <p>Learning about vulnerabilities, threat detection, and secure coding practices.</p>
-    </td>
-  </tr>
+Practicing with tools such as Burp Suite, Nmap, Wireshark, Metasploit, and Kali Linux.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧪 Practical Labs
+
+Hands-on cybersecurity exercises and security investigation concepts.
+
+</td>
+<td width="50%">
+
+### 📚 Security Research
+
+Learning about vulnerabilities, threat detection, and secure coding practices.
+
+</td>
+</tr>
 </table>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Skills</h2>
+## 🧠 Tech Stack & Skills
 
-<h3 align="center">Programming Languages</h3>
+### 👨‍💻 Programming Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" alt="Programming Languages" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" />
 </p>
 
-<h3 align="center">Frontend Development</h3>
+### 🎨 Frontend Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,materialui" alt="Frontend Skills" />
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,materialui" />
 </p>
 
-<h3 align="center">Backend Development & Databases</h3>
+### ⚙️ Backend & Databases
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,django" alt="Backend and Databases" />
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,django" />
 </p>
 
-<h3 align="center">Cybersecurity Tools</h3>
+### 🔐 Cybersecurity
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+<p>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 </p>
 
-<h3 align="center">Tools & Platforms</h3>
+### 🛠️ Tools & Platforms
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,aws" alt="Tools and Platforms" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,aws" />
 </p>
 
-<h3 align="center">Design & Creative Skills</h3>
+### 🖌️ Design & Creative
 
-<p align="center">
-  UI/UX Design · Graphic Design · Frontend Design
-</p>
+- UI/UX Design
+- Graphic Design
+- Frontend Design
+- Creative Visual Communication
 
 ---
 
-<h2 align="center">📈 GitHub Analytics & Activity</h2>
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-Vishnu-Priyan&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width:440px;" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Vishnu-Priyan&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width:350px;" alt="Top Languages" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=S-Vishnu-Priyan&show_icons=true&theme=dark&bg_color=0d1117&title_color=ff1744&icon_color=ff1744&border_color=30363d&hide_border=false" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-Vishnu-Priyan&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444" width="100%" style="max-width:480px;" alt="GitHub Streak" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Vishnu-Priyan&layout=compact&theme=dark&bg_color=0d1117&title_color=ff1744&border_color=30363d" />
 
----
+<br/>
 
-<h2 align="center">🐍 Contribution Journey</h2>
+<img src="https://streak-stats.demolab.com?user=S-Vishnu-Priyan&theme=dark&background=0D1117&ring=FF1744&fire=FF1744&currStreakLabel=FF1744&border=30363D" width="70%"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/S-Vishnu-Priyan/S-Vishnu-Priyan/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
-</p>
+</div>
 
 ---
 
-<h2 align="center">🌐 Let's Connect & Collaborate</h2>
+## 🐍 Contribution Journey
 
-<p align="center">
-  I'm interested in collaborating on cybersecurity, web development, UI/UX design, and innovative software projects.
-  <br /><br />
-  Feel free to connect with me!
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/S-Vishnu-Priyan">
-    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/vishnu-priyan-s-654094261">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/vishxx.____/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:vishnupriyan186@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://portfoliovishnupriyan.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+<img src="https://raw.githubusercontent.com/S-Vishnu-Priyan/S-Vishnu-Priyan/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
 
-<p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Footer" />
-</p>
+</div>
+
+---
+
+## 🌐 Let's Connect & Collaborate
+
+<div align="center">
+
+### 💬 Interested in cybersecurity, development, or creative collaborations?
+
+Feel free to connect with me!
+
+<a href="https://github.com/S-Vishnu-Priyan">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vishnu-priyan-s-654094261">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/vishxx.____/">
+  <img src="https://img.shields.io/badge/Instagram-Follow%20Along-C13584?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:vishnupriyan186@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://portfoliovishnupriyan.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**✨ Stay curious. Stay secure. Keep building.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1744,50:180b12,100:050505&height=120&section=footer" width="100%"/>
+
+</div>
