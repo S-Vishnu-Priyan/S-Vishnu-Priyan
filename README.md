@@ -2,6 +2,11 @@
 <!-- 🌌 CYBERPUNK GITHUB PROFILE README -->
 
 <div align="center">
+  <img src="ChatGPT%20Image%20Sep%2018,%202026,%2005_37_29%20PM.png" width="100%" alt="Vishnu Priyan cyberpunk banner"/>
+</div>
+
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:180b12,100:ff1744&text=VISHNU%20PRIYAN%20S&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Cybersecurity%20%7C%20Full%20Stack%20%7C%20UI%2FUX&descAlignY=58&animation=fadeIn" width="100%"/>
 
